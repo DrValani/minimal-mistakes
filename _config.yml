@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Welcome to Yogi's Blog
+title:            Yogi's Blog
 locale:           en_UK
 url:              http://localhost:4000
 
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Yogendra Valani
   avatar: bio-photo.jpg
-  bio: "An Agile Software Developer with a PhD in Mathematics"
+  bio: "PhD in Mathematics, Senior Software Developer"
   email: 
   disqus-shortname: 
   twitter: #username
@@ -56,4 +56,4 @@ owner:
   flickr: #username
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "Vagrantfile"]
